@@ -1,0 +1,10 @@
+D:\learning\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe.config
+D:\learning\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe
+D:\learning\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.pdb
+D:\learning\JSONSerialization\JSONSerialization\bin\Debug\Newtonsoft.Json.dll
+D:\learning\JSONSerialization\JSONSerialization\bin\Debug\Newtonsoft.Json.xml
+D:\learning\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.AssemblyReference.cache
+D:\learning\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.CoreCompileInputs.cache
+D:\learning\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csproj.CopyComplete
+D:\learning\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.exe
+D:\learning\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.pdb
